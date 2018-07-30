@@ -9,6 +9,7 @@ warmUpExercise  <- function() {
   #               will be returned as output.
   
   A = diag(5)
+  A
   
   # -------------------------------------------
   
